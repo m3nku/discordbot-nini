@@ -6,7 +6,7 @@ module.exports = {
   once: true,
   async execute(client) {
     await mongoose.connect(
-      "mongodb+srv://m3nku:YVV1SEUdS3Sahgqe@ninibot.poiic2j.mongodb.net/?retryWrites=true&w=majority",
+      "",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
