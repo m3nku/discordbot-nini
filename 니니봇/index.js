@@ -38,7 +38,7 @@ module.exports = client;
 
 client
   .login(
-    "MTA4MTYyNDQ3NDI2NjM3NDE4Ng.G3Wd2z.elym4j_hUGe2vp0vEwx9uaeLCHBTWxMnRkSQms"
+    ""
   )
   .then(() => {
     handleLogs(client);
